@@ -4,7 +4,7 @@
 
 - Rijubrata Bhaumik, Intel Corporation
 - Eero Häkkinen, Intel Corporation
-- Youenn Fablet, Apple Inc.
+
 
 ## Participate
 - github.com/riju/eyeGazeCorrection/issues/
