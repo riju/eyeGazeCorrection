@@ -37,14 +37,16 @@ Right now Apple had offers a boolean ON/OFF to control the Eye Gaze Correction f
 ## Performance
 
 FaceTime has this feature called [Attention Correction](https://techcrunch.com/2019/07/03/apples-ios-13-update-will-make-facetime-eye-contact-way-easier/) from 2018.
+All M series Macs and iPhones/ iPads with iOS 14 and above support this feature.
 
 Nvidia Broadcast 1.4 added the [“Eye Contact feature"](https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/) in 2023.
 
-On Windows and Mac platforms, Eye Gaze Corretion would leverage NPU (Neural Processing Unit). Windows 11 and a explicit NPU/ VPU is a  requirement. 
+On Windows, Eye Gaze Corretion would leverage NPU (Neural Processing Unit). Windows 11 and a explicit NPU/ VPU is a  requirement.
 
-Today, only selected models of Windows 11, having NPU will have the Eye Gaze Correction feature, but within this year, NPUs on PCs are going to be widespread and hence Eye Gaze Correction should work on all Meteor Lake systems and beyond and also on AMD systems with NPUs and Spandragon SQ3.
+Today, only selected models of Windows 11, having NPU will have the Eye Gaze Correction feature, but from Q4 2023, NPUs on PCs are going to be widespread. All new client systems from Intel starting from 14 Gen (launching Dec 14, 2023) will come with NPU.
+Eye Gaze Correction should work on all Meteor Lake systems and beyond and also on new AMD systems with NPUs and Spandragon SQ3, or other Windows on ARM systems.
 
-The performance will vary based on the models used in the platform.
+Since this would leverage the models present in the platform, (Windows Studio Effects on Windows ecosystem), we expect native-like performance and consistency across the same OS ecosystem.
 
 ## User research
 
